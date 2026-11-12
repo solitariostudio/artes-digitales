@@ -8,7 +8,7 @@ Recursos y cosillas.
 ## Tutoriales
 
 ## Inspiración
-- [Awwwards](https://awwwards.com) / Sitios web espectaculares.
+- [Awwwards](https://www.awwwards.com/websites/sites_of_the_day/) / Sitios web espectaculares.
 - [Logorama](https://www.youtube.com/watch?v=GgfQm42QDHk) / Corto de de logos ganador del Oscar.
 - [Everything is a Remix (2023)](https://www.youtube.com/watch?v=X9RYuvPCQUA) / Copiar-Transformar-Combinar.
 
