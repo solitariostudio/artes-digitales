@@ -17,6 +17,6 @@ Recursos y cosillas.
 
 ## Lo que hacemos
 - [https://www.youtube.com/watch?v=Dy6_bk8Kdqk] Reel de Stiven Rojas
-- [https://solitario.studio] Estudio de Diego Quintana
+- [Solitario Studio](https://solitario.studio) Estudio de Diego Quintana
 
 ## Interesante
